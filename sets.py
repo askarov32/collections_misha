@@ -1,6 +1,6 @@
 # set изменяемая, но он не хранит дубликаты
 # set нет индексации, неотсортированный
-
+# cnewdcneincdiejnceijncience
 set1 = {1, 2, 4, 4}
 print(set1)
 
